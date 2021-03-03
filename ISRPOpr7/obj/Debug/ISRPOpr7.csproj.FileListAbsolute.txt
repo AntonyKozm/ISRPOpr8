@@ -1,0 +1,10 @@
+F:\Учёба\МДК 03.02\ISRPOpr7\ISRPOpr7\bin\Debug\ISRPOpr7.exe.config
+F:\Учёба\МДК 03.02\ISRPOpr7\ISRPOpr7\bin\Debug\ISRPOpr7.exe
+F:\Учёба\МДК 03.02\ISRPOpr7\ISRPOpr7\bin\Debug\ISRPOpr7.pdb
+F:\Учёба\МДК 03.02\ISRPOpr7\ISRPOpr7\obj\Debug\ISRPOpr7.csprojAssemblyReference.cache
+F:\Учёба\МДК 03.02\ISRPOpr7\ISRPOpr7\obj\Debug\ISRPOpr7.Form1.resources
+F:\Учёба\МДК 03.02\ISRPOpr7\ISRPOpr7\obj\Debug\ISRPOpr7.Properties.Resources.resources
+F:\Учёба\МДК 03.02\ISRPOpr7\ISRPOpr7\obj\Debug\ISRPOpr7.csproj.GenerateResource.cache
+F:\Учёба\МДК 03.02\ISRPOpr7\ISRPOpr7\obj\Debug\ISRPOpr7.csproj.CoreCompileInputs.cache
+F:\Учёба\МДК 03.02\ISRPOpr7\ISRPOpr7\obj\Debug\ISRPOpr7.exe
+F:\Учёба\МДК 03.02\ISRPOpr7\ISRPOpr7\obj\Debug\ISRPOpr7.pdb
